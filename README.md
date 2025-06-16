@@ -125,4 +125,4 @@ Inspired by:
 
 * DeepMind's AlphaZero paper
 
-Built by Maaz Hasan
+Built by Owais Khan
