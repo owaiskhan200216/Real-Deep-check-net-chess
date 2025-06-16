@@ -1,0 +1,17 @@
+pandas 
+matplotlib
+numpy   
+scikit-learn
+seaborn
+tensorflow
+keras
+flask
+requests
+beautifulsoup4
+scipy
+pygame
+opencv-python
+chess
+torch
+python-chess
+cairosvg
